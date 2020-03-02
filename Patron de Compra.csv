@@ -1,4 +1,4 @@
-IdCliente,Estado_Civil, Profesion,Estudios_Univ,Tiene_Auto,Compra
+IdCliente,Estado_Civil,Profesion,Estudios_Univ,Tiene_Auto,Compra
 1,Casado,Empresari,Si,No,No
 2,Casado,Empresari,Si,Si,No
 3,Soltero,Empresari,Si,No,Si
