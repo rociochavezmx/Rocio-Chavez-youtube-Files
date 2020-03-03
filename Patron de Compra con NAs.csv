@@ -1,7 +1,7 @@
 IdCliente,Estado_Civil,Profesion,Estudios_Univ,Tiene_Auto,Compra
 1,Casado,Empresari,Si,No,No
 2,Casado,Empresari,Si,Si,No
-3,Soltero,Empresari,Si,No,Si
+3,Soltero,Empresari,Si,,Si
 4,Viudo,Desemple,Si,No,Si
 5,Viudo,Empleado,No,No,Si
 6,Viudo,,No,Si,No
@@ -12,4 +12,4 @@ IdCliente,Estado_Civil,Profesion,Estudios_Univ,Tiene_Auto,Compra
 11,Casado,Desemple,No,Si,Si
 12,Soltero,Desemple,Si,Si,No
 13,Soltero,Empresari,No,No,Si
-14,Viudo,Desemple,Si,Si,No
+14,Viudo,Desemple,Si,,No
